@@ -1,0 +1,2 @@
+# Python-Project-on-Billing-Manangement-System-Using-GUI
+This project deals with the demo of billing management system used in different market places. Python GUI is used to create the interfaces of billing management system, here there is a seprate window of Login, As purchaser window where one can buy stocks for shops from the wholesellers and a As Seller Window which take the record for the sale in the shop. There is also a feature of bill formation in both the seller as well as purchaser window where one can create the bill and save it for future refrence
